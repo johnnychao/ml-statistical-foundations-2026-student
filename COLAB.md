@@ -29,9 +29,21 @@ https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2
 https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb
 ```
 
+## 啟動練習模板
+
+建議流程：
+
+1. 先開啟練習模板連結。
+2. 選 `File -> Save a copy in Drive`，建立自己的副本。
+3. 從第一格開始執行。
+4. 若第一個 code cell 顯示正在安裝 `ISLP`，請等它完成。
+5. 安裝完成後，再繼續執行後面的 `import` 與資料讀取 cell。
+
+注意：Colab 每次重新開啟、重新匯入 notebook，或 runtime 被重設時，都可能需要重新安裝 `ISLP`。這是 Colab 的正常行為。
+
 ## Colab 第一次執行
 
-`00_environment_check.ipynb` 已包含 Colab 前置檢查 cell。第一次執行時，若 Colab 尚未安裝 `ISLP`，會自動安裝。
+`00_environment_check.ipynb` 與 `01_practice_template.ipynb` 都已包含 Colab 前置檢查 cell。第一次執行時，若 Colab 尚未安裝 `ISLP`，會自動安裝。
 
 如果你開到的是舊版 notebook，或仍看到 `ModuleNotFoundError: No module named 'ISLP'`，請在錯誤 cell 上方新增一格並執行：
 
