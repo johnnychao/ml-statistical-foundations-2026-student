@@ -1,0 +1,28 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local downloaded third-party labs
+notebooks/official/
+notebooks/official_zh_annotated/
+
+# Course-private or copyrighted teaching assets
+*.pdf
+*.pptx
+*.docx
+source_text.md
+source_text_reference.md
+
+# Local generated outputs
+outputs/
+work/
+dist/
+build/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

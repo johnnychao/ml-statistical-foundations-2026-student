@@ -1,0 +1,4 @@
+-r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.2.3/requirements.txt
+jupyterlab
+ipykernel
+

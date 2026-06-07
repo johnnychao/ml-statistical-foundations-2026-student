@@ -1,0 +1,54 @@
+# Google Colab 使用方式
+
+本 repo 的學生版 notebook 可以直接用 Google Colab 開啟。
+
+## 方法一：從 Colab 開 GitHub
+
+1. 打開 Google Colab。
+2. 選 `File` -> `Open notebook`。
+3. 選 `GitHub`。
+4. 輸入：
+
+```text
+johnnychao/ml-statistical-foundations-2026-student
+```
+
+5. 選擇要開啟的 notebook。
+
+## 方法二：直接開啟常用 notebook
+
+環境檢查：
+
+```text
+https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/00_environment_check.ipynb
+```
+
+練習模板：
+
+```text
+https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb
+```
+
+## Colab 第一次執行
+
+若 Colab 找不到 `ISLP`，請先在 notebook 第一格執行：
+
+```python
+!pip install ISLP
+```
+
+## 保存自己的副本
+
+Colab 上課練習時，建議選：
+
+```text
+File -> Save a copy in Drive
+```
+
+這樣學生才會有自己的副本，不會只是看老師的版本。
+
+## 注意
+
+- Colab 適合上課快速實作。
+- 本機 Jupyter 適合正式作業與長期練習。
+- 不要在 notebook 裡輸入密碼、token 或私人 API key。
