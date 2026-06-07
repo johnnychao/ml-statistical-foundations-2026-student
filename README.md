@@ -54,6 +54,8 @@ notebooks/01_practice_template.ipynb
 
 5. 如果使用 Google Colab，請參考 `COLAB.md`。
 
+6. 每章自主實作方式，請參考 `practice/CHAPTER_PRACTICE_GUIDE.md`。
+
 ## 課程材料結構
 
 ```text

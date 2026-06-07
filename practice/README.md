@@ -34,3 +34,13 @@ practice_ch05_resampling.ipynb
 - 資料有哪些欄位、缺失值或明顯異常？
 - baseline 模型結果如何？
 - 模型限制是什麼？哪些結論不能解釋成因果？
+
+## 每章實作指南
+
+請參考：
+
+```text
+practice/CHAPTER_PRACTICE_GUIDE.md
+```
+
+裡面整理每章對應的官方 lab、Colab 連結、自主實作任務與自我檢查問題。
