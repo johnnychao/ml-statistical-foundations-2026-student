@@ -50,5 +50,5 @@ File -> Save a copy in Drive
 ## 注意
 
 - Colab 適合上課快速實作。
-- 本機 Jupyter 適合正式作業與長期練習。
+- 本機 Jupyter 適合長期練習與反覆複習。
 - 不要在 notebook 裡輸入密碼、token 或私人 API key。

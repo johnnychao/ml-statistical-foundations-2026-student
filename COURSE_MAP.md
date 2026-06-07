@@ -16,13 +16,12 @@
 | 12 | Unsupervised Learning | Ch 12 | `Ch12-unsup-lab.ipynb` | PCA、k-means、hierarchical clustering |
 | 13 | Multiple Testing | Ch 13 | `Ch13-multiple-lab.ipynb` | FWER、FDR、Benjamini-Hochberg |
 
-## 每章實作交付格式
+## 每章自主實作檢查格式
 
-每次作業建議包含：
+每次實作建議包含：
 
 - 問題目標：prediction、interpretation 或 exploration。
 - 資料檢查：欄位、缺失值、目標變數與基本圖表。
 - 模型流程：前處理、訓練、驗證與結果。
 - 解釋與限制：模型適用性、錯誤型態、資料限制。
 - 可重現性：notebook 從頭執行不報錯。
-

@@ -63,5 +63,4 @@ notebooks/00_environment_check.ipynb
 !pip install ISLP
 ```
 
-Colab 適合短期練習，但正式作業仍建議保存自己的 notebook 副本。
-
+Colab 適合短期練習；若要長期複習，仍建議保存自己的 notebook 副本。

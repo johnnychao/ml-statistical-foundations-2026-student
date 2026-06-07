@@ -2,11 +2,12 @@
 
 本 repo 是「數據分析暨機器學習應用班 2026」中「機器學習的統計基礎」單元的學生實作入口。
 
-課程以 *An Introduction to Statistical Learning with Applications in Python* 的統計學習主題為主軸，搭配 Python、Jupyter Notebook、ISLP、scikit-learn 與課堂作業練習。
+課程以 *An Introduction to Statistical Learning with Applications in Python* 的統計學習主題為主軸，搭配 Python、Jupyter Notebook、ISLP、scikit-learn 與課堂自主練習。
 
 ## Repo 定位
 
-- 提供學生可操作的環境設定、notebook 入口、練習模板與作業說明。
+- 提供學生可操作的環境設定、notebook 入口、練習模板與自主實作說明。
+- 本課程不要求學生繳交資料或 notebook；請依課堂引導自行實作與保存副本。
 - 本 repo 是 public，學生即使沒有 GitHub 帳號，也可以打開網頁或下載 ZIP。
 - Google Colab 可以從本 repo 開啟 notebook，適合上課跟著老師實作。
 - 官方 lab notebooks 透過腳本下載到本機，不直接推到 GitHub。
@@ -56,10 +57,10 @@ notebooks/01_practice_template.ipynb
 ## 課程材料結構
 
 ```text
-assignments/       作業規格與提交說明
 data/              資料取得說明，不放私有資料
 environment/       requirements 檔與環境說明
 notebooks/         學生入口與練習模板
+practice/          自主練習方向與自我檢查
 scripts/           下載 labs 與建立環境的 PowerShell 腳本
 slides/            課堂簡報取得說明，不直接放私有簡報
 ```
@@ -77,4 +78,4 @@ slides/            課堂簡報取得說明，不直接放私有簡報
 - 每次實作先確認目標是 prediction、interpretation 還是 exploration。
 - 所有模型比較都要說明 train、validation、test 的角色。
 - 不只回報 accuracy，也要解釋錯誤型態與限制。
-- Notebook 提交前請重新執行一次，確保結果可重現。
+- Notebook 保存前請重新執行一次，確保結果可重現。
