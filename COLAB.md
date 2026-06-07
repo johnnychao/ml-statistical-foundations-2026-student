@@ -31,11 +31,15 @@ https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2
 
 ## Colab 第一次執行
 
-若 Colab 找不到 `ISLP`，請先在 notebook 第一格執行：
+`00_environment_check.ipynb` 已包含 Colab 前置檢查 cell。第一次執行時，若 Colab 尚未安裝 `ISLP`，會自動安裝。
+
+如果你開到的是舊版 notebook，或仍看到 `ModuleNotFoundError: No module named 'ISLP'`，請在錯誤 cell 上方新增一格並執行：
 
 ```python
 !pip install ISLP
 ```
+
+安裝完成後，再重新執行原本 `import ISLP` 的 cell。
 
 ## 保存自己的副本
 
