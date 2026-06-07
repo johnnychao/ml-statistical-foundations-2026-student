@@ -4,6 +4,13 @@
 
 課程以 *An Introduction to Statistical Learning with Applications in Python* 的統計學習主題為主軸，搭配 Python、Jupyter Notebook、ISLP、scikit-learn 與課堂自主練習。
 
+## Google Colab 立即開始
+
+1. 開啟 [Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)。
+2. 選 `File -> Save a copy in Drive`，建立自己的副本。
+3. 從第一個 code cell 開始執行；第一次使用時，Colab 會自動安裝 `ISLP`。
+4. 每章實作方式請看 [每章自主實作指南](practice/CHAPTER_PRACTICE_GUIDE.md)。
+
 ## Repo 定位
 
 - 提供學生可操作的環境設定、notebook 入口、練習模板與自主實作說明。
@@ -23,7 +30,7 @@ https://github.com/johnnychao/ml-statistical-foundations-2026-student/archive/re
 
 下載後解壓縮，再依照 `GETTING_STARTED.md` 操作。
 
-## 快速開始
+## 本機 Jupyter 快速開始
 
 1. 建立 Python 環境：
 

@@ -2,14 +2,17 @@
 
 本課程不要求繳交作業。學生每章的目標是：跟著老師在 Colab 操作，保存自己的 notebook 副本，並能用自己的話說明程式結果。
 
+## Google Colab 立即開始
+
+請先開啟：
+
+[點我開啟 Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)
+
+如果你現在正在 GitHub 預覽頁，請直接點上方連結；不用按 `Raw`，也不用先下載檔案。
+
 ## 每章共同流程
 
-1. 打開本課程的練習模板：
-
-```text
-https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb
-```
-
+1. 打開上方的 Colab 練習模板。
 2. 選 `File -> Save a copy in Drive`，建立自己的副本。
 3. 從第一個 code cell 開始執行。若 Colab 自動安裝 `ISLP`，請等它完成。
 4. 依照當週主題，把模板中的資料讀取、圖表、模型流程改成該章內容。
@@ -21,18 +24,18 @@ https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2
 
 | 章節 | 主題 | 官方 Lab Colab |
 | --- | --- | --- |
-| Ch02 | Statistical Learning | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch02-statlearn-lab.ipynb |
-| Ch03 | Linear Regression | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch03-linreg-lab.ipynb |
-| Ch04 | Classification | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch04-classification-lab.ipynb |
-| Ch05 | Resampling Methods | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch05-resample-lab.ipynb |
-| Ch06 | Model Selection and Regularization | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch06-varselect-lab.ipynb |
-| Ch07 | Moving Beyond Linearity | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch07-nonlin-lab.ipynb |
-| Ch08 | Tree-Based Methods | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch08-baggboost-lab.ipynb |
-| Ch09 | Support Vector Machines | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch09-svm-lab.ipynb |
-| Ch10 | Deep Learning | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch10-deeplearning-lab.ipynb |
-| Ch11 | Survival Analysis | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch11-surv-lab.ipynb |
-| Ch12 | Unsupervised Learning | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch12-unsup-lab.ipynb |
-| Ch13 | Multiple Testing | https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch13-multiple-lab.ipynb |
+| Ch02 | Statistical Learning | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch02-statlearn-lab.ipynb) |
+| Ch03 | Linear Regression | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch03-linreg-lab.ipynb) |
+| Ch04 | Classification | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch04-classification-lab.ipynb) |
+| Ch05 | Resampling Methods | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch05-resample-lab.ipynb) |
+| Ch06 | Model Selection and Regularization | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch06-varselect-lab.ipynb) |
+| Ch07 | Moving Beyond Linearity | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch07-nonlin-lab.ipynb) |
+| Ch08 | Tree-Based Methods | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch08-baggboost-lab.ipynb) |
+| Ch09 | Support Vector Machines | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch09-svm-lab.ipynb) |
+| Ch10 | Deep Learning | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch10-deeplearning-lab.ipynb) |
+| Ch11 | Survival Analysis | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch11-surv-lab.ipynb) |
+| Ch12 | Unsupervised Learning | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch12-unsup-lab.ipynb) |
+| Ch13 | Multiple Testing | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch13-multiple-lab.ipynb) |
 
 若官方 lab 在 Colab 中缺少套件，請先執行：
 

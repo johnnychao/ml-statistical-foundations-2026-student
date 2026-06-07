@@ -2,6 +2,14 @@
 
 本 repo 的學生版 notebook 可以直接用 Google Colab 開啟。
 
+## 最快方式
+
+上課或自主練習時，請直接開啟：
+
+[點我開啟 Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)
+
+打開後先選 `File -> Save a copy in Drive`，再從第一格開始執行。
+
 ## 方法一：從 Colab 開 GitHub
 
 1. 打開 Google Colab。
@@ -17,17 +25,8 @@ johnnychao/ml-statistical-foundations-2026-student
 
 ## 方法二：直接開啟常用 notebook
 
-環境檢查：
-
-```text
-https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/00_environment_check.ipynb
-```
-
-練習模板：
-
-```text
-https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb
-```
+- [環境檢查 notebook](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/00_environment_check.ipynb)
+- [練習模板 notebook](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)
 
 ## 啟動練習模板
 
