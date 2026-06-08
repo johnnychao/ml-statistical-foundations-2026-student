@@ -2,6 +2,8 @@
 
 本課程不要求學生繳交任何成果或資料。此資料夾提供自主練習方向，讓學生在課堂或課後自行實作、檢查理解。
 
+上課主流程是直接開啟當週官方 Lab 的 Colab 連結，先 `File -> Save a copy in Drive`，再逐格執行。練習模板適合課後整理、換資料、改模型，或保存自己的練習紀錄。
+
 ## 練習檔命名建議
 
 若要保存自己的練習 notebook，建議命名：
@@ -37,10 +39,6 @@ practice_ch05_resampling.ipynb
 
 ## 每章實作指南
 
-請參考：
+請參考 [每章自主實作指南](CHAPTER_PRACTICE_GUIDE.md)。
 
-```text
-practice/CHAPTER_PRACTICE_GUIDE.md
-```
-
-裡面整理每章對應的官方 lab、Colab 連結、自主實作任務與自我檢查問題。
+裡面整理每章對應的官方 Lab、Colab 連結、自主實作任務與自我檢查問題。

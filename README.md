@@ -6,18 +6,21 @@
 
 ## Google Colab 立即開始
 
-1. 開啟 [Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)。
-2. 選 `File -> Save a copy in Drive`，建立自己的副本。
-3. 從第一個 code cell 開始執行；第一次使用時，Colab 會自動安裝 `ISLP`。
-4. 每章實作方式請看 [每章自主實作指南](practice/CHAPTER_PRACTICE_GUIDE.md)。
+上課主流程是直接使用每章官方 Lab。
+
+1. 開啟 [每章自主實作指南](practice/CHAPTER_PRACTICE_GUIDE.md)。
+2. 找到當週章節，點右側的 `開啟 Lab`。
+3. 進入 Google Colab 後，選 `File -> Save a copy in Drive`，建立自己的副本。
+4. 從第一個 code cell 開始執行；若出現 `No module named 'ISLP'`，請先執行 `!pip install ISLP`。
+5. 課後整理或延伸練習時，再使用 [Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)。
 
 ## Repo 定位
 
 - 提供學生可操作的環境設定、notebook 入口、練習模板與自主實作說明。
 - 本課程不要求學生繳交資料或 notebook；請依課堂引導自行實作與保存副本。
 - 本 repo 是 public，學生即使沒有 GitHub 帳號，也可以打開網頁或下載 ZIP。
-- Google Colab 可以從本 repo 開啟 notebook，適合上課跟著老師實作。
-- 官方 lab notebooks 透過腳本下載到本機，不直接推到 GitHub。
+- Google Colab 可直接開啟官方 Lab；學生不需要 GitHub 帳號。
+- 官方 Lab notebooks 透過腳本下載到本機，不直接推到 GitHub。
 - 本 repo 不收錄原書 PDF、章節 PDF、PPTX、DOCX、講師私用註解版或本機輸出快取。
 
 ## 不用 GitHub 帳號也可以下載
@@ -29,6 +32,8 @@ https://github.com/johnnychao/ml-statistical-foundations-2026-student/archive/re
 ```
 
 下載後解壓縮，再依照 `GETTING_STARTED.md` 操作。
+
+注意：如果使用 Google Colab，上課建議直接點官方 Lab 連結。下載 ZIP 是備用方式；Colab 不會自動讀取學生桌面的 ZIP。
 
 ## 本機 Jupyter 快速開始
 

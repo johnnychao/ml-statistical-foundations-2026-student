@@ -4,23 +4,21 @@
 
 ## Google Colab 立即開始
 
-請先開啟：
-
-[點我開啟 Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb)
-
-如果你現在正在 GitHub 預覽頁，請直接點上方連結；不用按 `Raw`，也不用先下載檔案。
+上課主流程是直接使用每章官方 Lab。學生不需要 GitHub 帳號，也不需要先下載 ZIP。
 
 ## 每章共同流程
 
-1. 打開上方的 Colab 練習模板。
-2. 選 `File -> Save a copy in Drive`，建立自己的副本。
-3. 從第一個 code cell 開始執行。若 Colab 自動安裝 `ISLP`，請等它完成。
-4. 依照當週主題，把模板中的資料讀取、圖表、模型流程改成該章內容。
+1. 在下方表格找到當週章節，點 `開啟 Lab`。
+2. 進入 Google Colab 後，選 `File -> Save a copy in Drive`，建立自己的副本。
+3. 從第一個 code cell 開始執行。
+4. 若出現 `ModuleNotFoundError: No module named 'ISLP'`，請在最上方新增一格並執行 `!pip install ISLP`。
 5. 不需要繳交；請把副本留在自己的 Google Drive，作為複習紀錄。
+
+在原始 Colab 頁面執行不會影響官方 GitHub Lab；另存 Drive 是為了保留自己的修改、執行結果與筆記。
 
 ## 官方 Lab 開啟方式
 
-若老師要帶官方 lab，可用以下 Colab 連結。學生也可以自行開啟對照練習。
+下方是每章上課主流程使用的官方 Lab Colab 連結。學生也可以課後自行開啟對照練習。
 
 | 章節 | 主題 | 官方 Lab Colab |
 | --- | --- | --- |
@@ -37,11 +35,17 @@
 | Ch12 | Unsupervised Learning | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch12-unsup-lab.ipynb) |
 | Ch13 | Multiple Testing | [開啟 Lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.3/Ch13-multiple-lab.ipynb) |
 
-若官方 lab 在 Colab 中缺少套件，請先執行：
+若官方 Lab 在 Colab 中缺少套件，請先執行：
 
 ```python
 !pip install ISLP
 ```
+
+## 練習模板何時使用
+
+官方 Lab 是上課主要操作內容；[Colab 練習模板](https://colab.research.google.com/github/johnnychao/ml-statistical-foundations-2026-student/blob/main/notebooks/01_practice_template.ipynb) 適合課後整理、換資料、改模型，或把當週重點整理成自己的練習紀錄。
+
+使用練習模板時，也請先選 `File -> Save a copy in Drive`。
 
 ## 每章練習方式
 

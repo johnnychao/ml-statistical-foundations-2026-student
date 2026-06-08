@@ -1,5 +1,7 @@
 # Course Map
 
+上課主流程：老師與學生直接開啟當週官方 Lab 的 Colab 連結，先 `File -> Save a copy in Drive`，再逐格執行。官方 Lab 連結請見 [每章自主實作指南](practice/CHAPTER_PRACTICE_GUIDE.md)。
+
 | 週次 | 主題 | 對應 ISLP 章節 | 官方 Lab | 課堂重點 |
 | --- | --- | --- | --- | --- |
 | 1 | 課程導入與 Python 基礎 | Ch 1-2 | `Ch02-statlearn-lab.ipynb` | 任務類型、資料讀取、視覺化 |
